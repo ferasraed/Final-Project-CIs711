@@ -1,6 +1,6 @@
 # Description : 
 
-#* Project phases : 
+# Project phases : 
 
 
 * preprocessing : 
